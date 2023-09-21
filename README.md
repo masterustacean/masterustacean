@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently looking for rust job that involves web, open-ai and llm
+Im currently looking for a job that involves web, open-ai and llm using Rust
 
 
 ## 🌐 Socials:
